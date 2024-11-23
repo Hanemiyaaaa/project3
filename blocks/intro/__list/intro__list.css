@@ -3,3 +3,19 @@
     max-height: 90px;
     margin-top: 33px;
 }
+
+
+@media screen and (max-width: 1023px) {
+    .intro__list {
+        max-width: 720px;
+        max-height: 90px;
+    }
+}
+
+@media screnn and (max-width: 767px) {
+    .intro__list {
+        max-width: 288px;
+        max-height: 90px;
+        margin-top: 34px;
+    }
+}
