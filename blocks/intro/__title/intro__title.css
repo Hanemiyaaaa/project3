@@ -1,0 +1,11 @@
+.intro__title {
+    max-width: 690px;
+    max-height: 58px;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+    color: #FFFFFF;
+    align-self: flex-start;
+    margin-top: 0;
+    margin-bottom: 0;
+}
